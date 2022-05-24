@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MairaDB&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsj8405&layout=compact)](https://github.com/dhsj8405)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=douzone-bipa&layout=compact)](https://github.com/dhsj8405)
 
