@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dhsj8405&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
